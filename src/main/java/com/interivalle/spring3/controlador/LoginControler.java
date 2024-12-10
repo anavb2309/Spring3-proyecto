@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 /**
  *
- * @author Marysela Velasco
+ * Cotizador Interivalle
  */
 
  @Controller

@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 
 /**
  *
- * @author Marysela Velasco
+ * Cotizador Interivalle
  */
  @Controller
 public class MaderaControler {
